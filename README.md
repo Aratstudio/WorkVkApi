@@ -1,0 +1,1 @@
+# С ошибкой invalid HASH
